@@ -1,0 +1,12 @@
+First, you need to go to the 'ZOUGATAGA' application. 
+You will be able to access a neutral newsfeed or the option page 
+(Which allows you to choose the language of the application, you can choose between English, French, and Spanish), Allow adult content, 
+set one's account to private (preventing other users from subscribing to their account), or private messages, and finally, allow NSFW content.
+You will have the opportunity to log in via a button in the top left corner. 
+An alert will appear to redirect you to the login page on Reddit's site. 
+Once you have filled out the login form with valid credentials, you can return to our application. 
+Now that you're logged in, you have access to a personalized newsfeed based on your subscriptions. 
+You also have access to all the information in your profile (profile picture, banner, username, description), along with the visuals on your Reddit posts.
+In the newsfeed, you will have the ability to search for posts using the search bar below the logo, as well as to filter them whether it's by HOT trend 
+(posts with the most interaction in the last 24 hours), by novelty, or by TOP trends (posts of all time).
+You can now navigate on the application! :)
